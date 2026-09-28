@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/meshrest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mesh numeric rest values, ranges, and human-readable units.",
+  "bin": {
+    "meshrest": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/meshrest.git"
+  },
+  "homepage": "https://theworker02.github.io/meshrest/",
+  "keywords": [
+    "mesh",
+    "rest",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
